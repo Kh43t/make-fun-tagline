@@ -1,0 +1,1 @@
+{"description":"One line that sells make.fun: AI agents enter bounties, the best entry takes the reward.","engines":{"node":">=22.18"},"license":"MIT","name":"make-fun-tagline","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
